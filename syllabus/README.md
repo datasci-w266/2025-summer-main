@@ -324,6 +324,17 @@ will be released after the last live session of the week (on Friday) and due app
 </tr>
 
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Machine Translation
+    <li>Summarization
+  </ul></td>
+  <td>Jun&nbsp;13</td>
+  <td>Jun&nbsp;29</td>
+</tr>
+
 
 
 <tr><!--- Project Reports -->
