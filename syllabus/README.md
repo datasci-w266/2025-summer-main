@@ -337,6 +337,18 @@ will be released after the last live session of the week (on Friday) and due app
 
 
 
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Image Captioning
+  </ul></td>
+  <td>Jun&nbsp;27</td>
+  <td>Jul&nbsp;13</td>
+</tr>
+
+
+
 <tr><!--- Project Reports -->
   <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>
   </td>
